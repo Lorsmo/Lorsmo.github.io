@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /img/logo_education
+
+User-agent: *
+Disallow: /img/logo_tools 
